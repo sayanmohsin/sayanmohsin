@@ -4,7 +4,7 @@ Hi 👋 My name is Sayan Mohsin
 Software Developer and Tech Enthusiast
 --------------------------------------
 
-Around 8 years of experience in development, hands-on coding, scaling software and building startups from scratch.
+8+ years of experience in development, hands-on coding, scaling software and building startups from scratch.
 
 * 🌍  I'm based in Toronto 🇨🇦
 * ✉️  You can contact me at [sayanmohsin@outlook.com](mailto:sayanmohsin@outlook.com)
