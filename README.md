@@ -1,57 +1,57 @@
-Hi 👋 My name is Sayan Mohsin
-=============================
+## 🫡 About Me
 
-Software Developer and Tech Enthusiast
---------------------------------------
+Hello! 👋 My name is Sayan Mohsin, and I am a passionate Software Developer and Tech Enthusiast with over 10 years of experience in the world of programming. I have a deep-rooted love for building innovative solutions, scaling software, and nurturing startups from scratch. 💡
 
-10+ years of experience in programming, hands-on coding, scaling software and building startups from scratch.
+I am constantly driven by the thrill of solving complex problems and creating elegant, efficient code that delivers real-world value. Whether it's crafting mesmerizing web applications, diving into the fascinating realm of blockchain development, or exploring new technologies, I find immense joy in every line of code I write. 🚀
 
-* 🌍  I'm based in Toronto 🇨🇦
-* ✉️  You can contact me at [sayanmohsin@outlook.com](mailto:sayanmohsin@outlook.com)
-* 🧠  I'm learning RUST 🦀
-* 🤝  I'm open to collaborating on ML Project, Rust projects and Blockchain projects
+As technology rapidly evolves, I embrace the role of a lifelong learner. I am always eager to explore the latest trends, emerging technologies, and best practices in the software development landscape. This insatiable thirst for knowledge enables me to stay at the forefront of the tech industry and continuously refine my skills. 🌱
 
-### Skills
+## 🔧 Tech Stack & Expertise
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
-<a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
-</p>
+My expertise extends across a wide range of cutting-edge technologies, empowering me to engineer exceptional solutions and drive innovation:
 
+- **JavaScript and TypeScript:** Crafting mesmerizing web applications with maintainability, scalability, and cross-platform capabilities in mind. Leveraging TypeScript for type safety and enhanced developer productivity. 🌐
 
-### Socials
+- **Node.js and Express:** Architecting robust server-side applications with an emphasis on performance and real-time data processing. Leveraging Express to create scalable APIs for various use cases. 🚀
 
-<p align="left"> <a href="https://www.dev.to/sayanmohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/sayanmohin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/sayanmohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://sayanmohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sayanmohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sayanmohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/sayanmohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sayanmohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+- **GraphQL:** Designing efficient and flexible APIs for seamless data fetching and real-time updates. GraphQL's declarative and composable nature simplifies frontend-backend interactions. ⚡️
 
-### Badges
+- **NestJS:** Building enterprise-grade applications by harnessing the power of Node.js and TypeScript. NestJS's modular and scalable architecture facilitates the development of complex systems. 🏗️
 
-<a href="https://github.com/sayanmohsin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmohsin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- **MongoDB, MySQL, and PostgreSQL:** Crafting optimized databases for efficient data storage and retrieval. Utilizing NoSQL (MongoDB) and relational databases (MySQL and PostgreSQL) based on project requirements. 🗃️
 
-### Support Me
+- **Ethereum, Web3.js, and Ethers:** Exploring the thrilling realm of blockchain development and smart contracts. Building decentralized applications (DApps) and interacting with Ethereum-based networks. 🛠️
+
+- **IPFS:** Embracing decentralized file storage and content-addressable data for a resilient web. Utilizing IPFS to create distributed and censorship-resistant applications. 📡
+
+- **Golang:** Harnessing the power of Go for building efficient, concurrent, and high-performance applications. 🏎️
+
+- **Rust:** Pioneering the development of high-performance and secure systems applications. Rust's focus on memory safety and concurrent programming empowers me to build robust and efficient software. 🦀
+
+## 🌐 Connect with Me
+
+Stay connected and updated with my latest projects, tech insights, and accomplishments on various platforms:
+
+- [Dev.to](https://www.dev.to/sayanmohsin): Discover my tech experiences and breakthroughs in the world of development. 📝
+
+- [GitHub](https://www.github.com/sayanmohsin): Explore my open-source contributions and innovative projects. 🛠️
+
+- [LinkedIn](https://www.linkedin.com/in/sayanmohsin): Connect with me professionally and collaborate on exciting ventures. 🤝
+
+- [Twitter](https://www.twitter.com/sayanmohsin): Engage in thought-provoking discussions and stay updated with tech trends. 🐦
+
+- [Medium](http://www.medium.com/@sayanmohsin): Dive into insightful articles and analyses on cutting-edge technologies. 📚
+
+- [Stack Overflow](https://www.stackoverflow.com/users/sayanmohsin): Learn from and contribute to the vibrant tech community. 🌟
+
+- [Hashnode](https://sayanmohsin): Join the developer community and explore my thought-provoking blogs. 🗞️
+
+## ☕️ Support Me
+
+If you find value in my work and wish to support me, consider buying me a coffee. Your support fuels my passion for creating exceptional tech content: ☕️
 
 <a href="https://www.buymeacoffee.com/sayanmohsin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+I'm always thrilled to collaborate on thrilling Machine Learning, Rust, and Blockchain projects, and explore the world of Golang. Feel free to reach out to me at any time!
+
+Together, let's forge an extraordinary future and redefine the boundaries of technology! 🚀
