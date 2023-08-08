@@ -28,6 +28,10 @@ My expertise extends across a wide range of cutting-edge technologies, empowerin
 
 - **Rust:** Pioneering the development of high-performance and secure systems applications. Rust's focus on memory safety and concurrent programming empowers me to build robust and efficient software. 🦀
 
+## ⚙️ Most Used Language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmohsin&layout=donut&hide=html)
+
 ## 🌐 Connect with Me
 
 Stay connected and updated with my latest projects, tech insights, and accomplishments on various platforms:
