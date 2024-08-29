@@ -26,8 +26,6 @@ My expertise extends across a wide range of cutting-edge technologies, empowerin
 
 - **Golang:** Harnessing the power of Go for building efficient, concurrent, and high-performance applications. 🏎️
 
-- **Rust:** Pioneering the development of high-performance and secure systems applications. Rust's focus on memory safety and concurrent programming empowers me to build robust and efficient software. 🦀
-
 ## ⚙️ Most Used Language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmohsin&layout=donut&hide=html)
@@ -56,6 +54,6 @@ If you find value in my work and wish to support me, consider buying me a coffee
 
 <a href="https://www.buymeacoffee.com/sayanmohsin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-I'm always thrilled to collaborate on thrilling Machine Learning, Rust, and Blockchain projects, and explore the world of Golang. Feel free to reach out to me at any time!
+I'm always thrilled to collaborate on thrilling Machine Learnin, and Blockchain projects, and explore the world of Golang. Feel free to reach out to me at any time!
 
 Together, let's forge an extraordinary future and redefine the boundaries of technology! 🚀
