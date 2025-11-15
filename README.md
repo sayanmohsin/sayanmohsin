@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Sayan Mohsin
 
-**Senior Software Engineer** | Solving complex problems with **simple, elegant, and pivotable solutions** 🤖✨  
+**Senior Software Engineer @ [Intellistack](https://www.intellistack.com/)** | Solving complex problems with **simple, elegant, and pivotable solutions** 🤖✨  
 
 ---
 
