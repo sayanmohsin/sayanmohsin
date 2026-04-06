@@ -1,34 +1,57 @@
-# 👋 Hey, I’m Sayan Mohsin
+<div align="center">
 
-**Senior Software Engineer @ [Intellistack](https://www.intellistack.com/)** | Solving complex problems with **simple, elegant, and pivotable solutions** 🤖✨  
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║  $ whoami                                                 ║
+║  > Sayan Mohsin                                           ║
+║  > sayanmohsin@outlook.com                                ║
+║  > SWE @ Intellistack                                     ║
+║  > Building AI-Native Systems                             ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
----
+`>` [LinkedIn](https://linkedin.com/in/sayanmohsin) `|` [GitHub](https://github.com/sayanmohsin)
 
-### 🚀 What I Do
-- Build **AI-powered, agentic workflows** that accelerate development  
-- Simplify complexity: clean, adaptable solutions without over-engineering  
-- Experiment with **next-gen AI-native system design**  
-- Rapidly pivot and explore new ideas with intelligent, scalable systems  
+</div>
 
----
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-### 🧪 Currently Experimenting
-- Agentic AI workflows with LLM orchestration  
-- Automating development pipelines with AI  
-- Self-learning intelligent software patterns  
-- Rapid prototyping of AI-native systems  
+### 🕹️ CURRENT_MISSION.exe
 
----
+```console
+$ cat mission.txt
+> Building distributed systems with Kafka & Temporal
+> Designing AI agents that code, review, and deploy
+> Shipping across full stack: backend → frontend → infra
+```
 
-### 🛠 Programming Language Stats
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+### 💾 SKILLS.dat
 
----
+```console
+Languages    :: TypeScript • Java • Python • Go • PHP
+Frontend     :: React • Next.js • Angular • Vue • Vite
+Backend      :: Spring • NestJS • FastAPI • Kafka • Temporal  
+Runtime      :: Node.js • Bun
+DevOps       :: Kubernetes • Docker • ArgoCD
+```
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayanmohsin)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sayanmohsin)
+### 📊 ACTIVITY.log
+
+```
+System Status: ████████████████████ 100% OPERATIONAL
+Commits Today: ██████░░░░░░░░░░░░░░  65% 
+Code Quality:  ████████████████████ 100% SHIP-READY
+Coffee Level:  ████████████░░░░░░░░  85% REFILL SOON
+```
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<div align="center">
+
+`> Ship_Fast.exe && Pivot_Faster.exe`
+
+</div>
